@@ -6,6 +6,9 @@ AWS Solutions Architect Associate Practice Exams 2020 - SAA-C02 version
 #### Course Link with Discounted Coupon Code: 
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/?couponCode=TDSAA-MAR2019
 
+![AWS Solutions Architect - SAA-C02](https://github.com/jsbonso/AWS-Solutions-Architect-Associate-Practice-Exams-2020---SAA-C02-version/blob/master/aws.png)
+
+
 The AWS Certified Solutions Architect Associate is consistently among the top-paying IT certifications in the world, considering that Amazon Web Services (AWS) is the leading cloud services platform in the world with almost 50% market share! Earn over $150,000 per year with an AWS Solutions Architect certification!
 
 But before you become an AWS Certified Solutions Architect Professional, it is recommended for you to pass the AWS Solutions Architect Associate certification exam first, and this is where AWS practice tests come in. It is possible that you have read all of the available AWS documentation online yet still fail the exam! These AWS practice tests simulate the actual certification exam and ensure that you indeed understand the subject matter.
